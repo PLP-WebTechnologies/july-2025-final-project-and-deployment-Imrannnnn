@@ -19,12 +19,11 @@ The website serves as an online presence for a Life Coach, showcasing expertise 
 - **CSS3 (Flexbox & Media Queries)**
 - **JavaScript (for interactivity)**
 
-## How to Use
-1. Clone or download this repository.  
-2. Open `index.html` in your browser.  
-3. Customize the content and images to fit your brand.
+## Url 
+live url of the website "https://plpnasiruimran.netlify.app/"
 
 ---
 
  *Designed to inspire growth, focus, and personal development.
  Nasiru Imran - software Engineer, life coach*
+
